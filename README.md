@@ -1,4 +1,4 @@
-# Hi there, I'm Ashish Sahu 👋
+# Hi there, I'm Ashish 👋
 
 <div align="center">
 
