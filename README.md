@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🤖 AI Architect | Gemini Enterprise Certified | OpenAI Technical Practitioner
+### 🤖 AI Architect | Gemini Enterprise & OpenAI Certified
 
 [![Yantra AI Digital Twin](https://img.shields.io/badge/🤖_Talk_to_Yantra-AI_Digital_Twin-38BDF8?style=for-the-badge&logo=streamlit&logoColor=white)](https://ashish38828.streamlit.app)
 [![Personal Portfolio](https://img.shields.io/badge/🌐_Portfolio-ashish38828.github.io-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ashish38828.github.io)
@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-I am an **AI Architect & Lead Software Engineer** with **13+ years of enterprise engineering experience**, including **9 years leading Google Enterprise platforms and integrations** at EPAM. 
+I am an **AI Architect** with **13+ years of enterprise engineering experience**, including **9 years leading Google Enterprise platforms and integrations** at EPAM. 
 
 My unique engineering differentiator is my end-to-end evolutionary journey:
 * 🏦 **Core Backend & Microservices:** Began at **Wipro (Credit Suisse)** engineering Java/Spring Boot microservices for global banking.
